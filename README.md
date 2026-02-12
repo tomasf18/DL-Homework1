@@ -6,7 +6,7 @@ This repository contains the implementation and analysis of fundamental neural n
 
 ## Overview
 
-*Note: For detailed information, please refer to the [ProjectSpecification.pdf](ProjectSpecification.pdf).*
+*Note: For detailed information, please refer to the [ProjectSpecification.pdf](./docs/ProjectSpecification.pdf).*
 
 This project explores the progression from simple linear classifiers to deep neural networks, implementing and comparing:
 
@@ -25,7 +25,7 @@ All models are trained and evaluated on the **EMNIST Letters dataset**, which co
 
 ## Key Results
 
-*Note: For detailed analysis, methodology, and extended results, please refer to the [Report.pdf](Report.pdf).*
+*Note: For detailed analysis, methodology, and extended results, please refer to the [Report.pdf](./docs/Report.pdf).*
 
 | Model | Implementation | Test Accuracy |
 |-------|---------------|---------------|
