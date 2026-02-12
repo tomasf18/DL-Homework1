@@ -2,7 +2,7 @@
 
 ### `Grade: 19.2/20`
 
-This repository contains the implementation and analysis of fundamental neural network architectures for handwritten letter classification on the EMNIST dataset. Developed as Homework 1 for the Deep Learning course (25/26) at Instituto Superior Técnico, University of Lisbon.
+This repository contains the implementation and analysis of fundamental neural network architectures for handwritten letter classification on the EMNIST dataset. Developed as Homework 1 for the Deep Learning course (2025/26) at Instituto Superior Técnico, University of Lisbon.
 
 ## Overview
 
@@ -41,8 +41,11 @@ All models are trained and evaluated on the **EMNIST Letters dataset**, which co
 ```
 DL-Homework1/
 ├── README.md                           # This file
-├── Report.pdf                          # Detailed analysis and results
-├── prev_report_solutions/              # Reference materials
+│
+├── docs/
+│   ├── ProjectSpecification.pdf        # Assignment specification
+│   ├── Report.pdf                      # Detailed analysis and results
+|
 └── src/
     ├── data/
     │   └── emnist-letters.npz         # EMNIST dataset (28×28 grayscale images)
