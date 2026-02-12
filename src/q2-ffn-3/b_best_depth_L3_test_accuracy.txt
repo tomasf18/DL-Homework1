@@ -1,0 +1,2 @@
+Best depth by validation accuracy: L=3
+Test accuracy at best validation: 0.864567

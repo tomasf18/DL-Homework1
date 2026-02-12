@@ -1,0 +1,7 @@
+Highest validation accuracy per depth (L):
+ L         best_val_acc
+ 1             0.845240
+ 3             0.868269
+ 5             0.865962
+ 7             0.841058
+ 9             0.803702

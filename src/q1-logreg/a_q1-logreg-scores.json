@@ -1,0 +1,26 @@
+{
+    "grid_results": [
+        {
+            "learning_rate": 0.0001,
+            "l2_penalty": 1e-05,
+            "features": "raw",
+            "best_valid": 0.6988461538461539,
+            "selected_epoch": 20,
+            "test": 0.7022115384615385,
+            "time": 415.82319593429565,
+            "model_path": "q1-logreg/q1-logreg-besta_lr0.0001_l20.00001.model",
+            "acc_plot": "q1-logreg/q1-logreg-besta_lr0.0001_l20.00001_accs.pdf"
+        }
+    ],
+    "best_config": {
+        "learning_rate": 0.0001,
+        "l2_penalty": 1e-05,
+        "features": "raw",
+        "best_valid": 0.6988461538461539,
+        "selected_epoch": 20,
+        "test": 0.7022115384615385,
+        "time": 415.82319593429565,
+        "model_path": "q1-logreg/q1-logreg-besta_lr0.0001_l20.00001.model",
+        "acc_plot": "q1-logreg/q1-logreg-besta_lr0.0001_l20.00001_accs.pdf"
+    }
+}

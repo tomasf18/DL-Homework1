@@ -1,0 +1,147 @@
+{
+    "grid_results": [
+        {
+            "learning_rate": 0.001,
+            "l2_penalty": 1e-05,
+            "features": "raw",
+            "best_valid": 0.7201923076923077,
+            "selected_epoch": 20,
+            "test": 0.721875,
+            "time": 354.25238394737244,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.001_l20.00001_raw.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.001_l20.00001_raw_accs.pdf"
+        },
+        {
+            "learning_rate": 0.001,
+            "l2_penalty": 1e-05,
+            "features": "pca",
+            "best_valid": 0.7140865384615385,
+            "selected_epoch": 18,
+            "test": 0.7158653846153846,
+            "time": 157.85904669761658,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.001_l20.00001_pca.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.001_l20.00001_pca_accs.pdf"
+        },
+        {
+            "learning_rate": 0.001,
+            "l2_penalty": 0.0001,
+            "features": "raw",
+            "best_valid": 0.720625,
+            "selected_epoch": 17,
+            "test": 0.7222596153846154,
+            "time": 359.7671411037445,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.001_l20.00010_raw.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.001_l20.00010_raw_accs.pdf"
+        },
+        {
+            "learning_rate": 0.001,
+            "l2_penalty": 0.0001,
+            "features": "pca",
+            "best_valid": 0.7151442307692307,
+            "selected_epoch": 19,
+            "test": 0.7153846153846154,
+            "time": 188.02508544921875,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.001_l20.00010_pca.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.001_l20.00010_pca_accs.pdf"
+        },
+        {
+            "learning_rate": 0.0001,
+            "l2_penalty": 1e-05,
+            "features": "raw",
+            "best_valid": 0.6992307692307692,
+            "selected_epoch": 20,
+            "test": 0.7027403846153846,
+            "time": 401.8315472602844,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.0001_l20.00001_raw.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.0001_l20.00001_raw_accs.pdf"
+        },
+        {
+            "learning_rate": 0.0001,
+            "l2_penalty": 1e-05,
+            "features": "pca",
+            "best_valid": 0.6963461538461538,
+            "selected_epoch": 20,
+            "test": 0.7000480769230769,
+            "time": 165.4070749282837,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.0001_l20.00001_pca.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.0001_l20.00001_pca_accs.pdf"
+        },
+        {
+            "learning_rate": 0.0001,
+            "l2_penalty": 0.0001,
+            "features": "raw",
+            "best_valid": 0.6985576923076923,
+            "selected_epoch": 20,
+            "test": 0.7022596153846153,
+            "time": 386.7949867248535,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.0001_l20.00010_raw.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.0001_l20.00010_raw_accs.pdf"
+        },
+        {
+            "learning_rate": 0.0001,
+            "l2_penalty": 0.0001,
+            "features": "pca",
+            "best_valid": 0.6961057692307693,
+            "selected_epoch": 20,
+            "test": 0.6994711538461539,
+            "time": 180.63509154319763,
+            "model_path": "q1-logreg/q1-logreg-best_lr0.0001_l20.00010_pca.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr0.0001_l20.00010_pca_accs.pdf"
+        },
+        {
+            "learning_rate": 1e-05,
+            "l2_penalty": 1e-05,
+            "features": "raw",
+            "best_valid": 0.6212019230769231,
+            "selected_epoch": 20,
+            "test": 0.6236057692307693,
+            "time": 373.1622657775879,
+            "model_path": "q1-logreg/q1-logreg-best_lr1e-05_l20.00001_raw.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr1e-05_l20.00001_raw_accs.pdf"
+        },
+        {
+            "learning_rate": 1e-05,
+            "l2_penalty": 1e-05,
+            "features": "pca",
+            "best_valid": 0.620576923076923,
+            "selected_epoch": 20,
+            "test": 0.6230769230769231,
+            "time": 154.29423427581787,
+            "model_path": "q1-logreg/q1-logreg-best_lr1e-05_l20.00001_pca.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr1e-05_l20.00001_pca_accs.pdf"
+        },
+        {
+            "learning_rate": 1e-05,
+            "l2_penalty": 0.0001,
+            "features": "raw",
+            "best_valid": 0.6210096153846154,
+            "selected_epoch": 20,
+            "test": 0.6235576923076923,
+            "time": 348.17209339141846,
+            "model_path": "q1-logreg/q1-logreg-best_lr1e-05_l20.00010_raw.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr1e-05_l20.00010_raw_accs.pdf"
+        },
+        {
+            "learning_rate": 1e-05,
+            "l2_penalty": 0.0001,
+            "features": "pca",
+            "best_valid": 0.620576923076923,
+            "selected_epoch": 20,
+            "test": 0.6230288461538461,
+            "time": 156.14168858528137,
+            "model_path": "q1-logreg/q1-logreg-best_lr1e-05_l20.00010_pca.model",
+            "acc_plot": "q1-logreg/q1-logreg-best_lr1e-05_l20.00010_pca_accs.pdf"
+        }
+    ],
+    "best_config": {
+        "learning_rate": 0.001,
+        "l2_penalty": 0.0001,
+        "features": "raw",
+        "best_valid": 0.720625,
+        "selected_epoch": 17,
+        "test": 0.7222596153846154,
+        "time": 359.7671411037445,
+        "model_path": "q1-logreg/q1-logreg-best_lr0.001_l20.00010_raw.model",
+        "acc_plot": "q1-logreg/q1-logreg-best_lr0.001_l20.00010_raw_accs.pdf"
+    }
+}

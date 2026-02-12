@@ -1,0 +1,7 @@
+Best configuration per hidden size (by validation accuracy):
+ hidden_size           lr    dropout         l2 best_validation_accuracy test_accuracy_at_best_validation
+          16        0.001       0.00          0               0.7844               0.7843
+          32        0.001       0.00     0.0001               0.8452               0.8453
+          64        0.001       0.00     0.0001               0.8799               0.8788
+         128        0.001       0.00     0.0001               0.8954               0.8928
+         256        0.001       0.00     0.0001               0.9059               0.9030
